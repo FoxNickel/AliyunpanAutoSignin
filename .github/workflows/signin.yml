@@ -1,8 +1,8 @@
 name: Aliyun_Signin
 
 on:
-  schedule:
-    - cron: '15 03 * * *'
+#   schedule:
+#     - cron: '15 03 * * *'
   workflow_dispatch:
 jobs:
   signin:
